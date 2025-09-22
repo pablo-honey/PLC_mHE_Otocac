@@ -1,0 +1,23 @@
+type=textlist;;;
+-;;;0
+DC-Link Voltage;1108;1108;1108
+DC Voltage Ref.;1200;1200;1200
+DC Voltage Actual;7;7;7
+Total Current;1104;1104;1104
+Active Current;1125;1125;1125
+Reactive Current;1157;1157;1157
+Power kW;1508;1508;1508
+Power %;5;5;5
+Status Word;43;43;43
+Supply Frequency;1;1;1
+Supplpy Voltage;1107;1107;1107
+Line Frequency D7;1654;1654;1654
+Line Voltage D7;1650;1650;1650
+AC Voltage Reference;1556;1556;1556
+DC Ref Max Lim;1606;1606;1606
+Shaft Frequency;1124;1124;1124
+Torque Reference;18;18;18
+Final Torque Reference;1145;1145;1145
+Actual Torque Reference;1180;1180;1180
+Motor Torque;4;4;4
+Motor Speed;2;2;2

@@ -1,0 +1,62 @@
+type=textlist;;;
+-;;;0
+F1 Overcurrent fault;1;1;0
+F2 Overvoltage fault;2;2;0
+F3 Earth fault;3;3;0
+F5 Charge switch;5;5;0
+F6 Emergency stop;6;6;0
+F7 Saturation fault;7;7;0
+F8 System fault;8;8;0
+F9 Undervoltage fault;9;9;0
+F10 Line Synchronization fault;10;10;0
+F11 Line phase supervision;11;11;0
+F12 Brake chopper supervision;12;12;0
+F13 Drive under tempererature fault;13;13;0
+F14 Drive over temperature fault;14;14;0
+F22 EEPROM checksum fault;22;22;0
+F24 Counter fault;24;24;0
+F25 Microprocessor watchdog fault;25;25;0
+F26 Start-up prevention;26;26;0
+F29 Thermistor fault;29;29;0
+F31 IGBT temperature;31;31;0
+F32 fan cooling;32;32;0
+F37 Device change;37;37;0
+F38 Device added;38;38;0
+F39 Device removed;39;39;0
+F40 Device unknown;40;40;0
+F41 IGBT temperature;41;41;0
+F42 Brake resistor over temperature;42;42;0
+F43 Encoder Fault;43;43;0
+F44 Device changed (Default param.);44;44;0
+F45 Device added (Default param.);45;45;0
+F50 4mA supervision;50;50;0
+F51 External fault;51;51;0
+F52 Keypad communication;52;52;0
+F53 Fieldbus communication fault on slot D;53;53;0
+F54 Slot fault;54;54;0
+F55 Input switch;55;55;0
+F56 PT100 temperature fault;56;56;0
+F57 Identification;57;57;0
+F58 Mechanical brake;58;58;0
+F59 SystemBus communication;59;59;0
+F60 Cooling;60;60;0
+F62 Run disabled;62;62;0
+F63 Quick stop;63;63;0
+F64 MCB state fault;64;64;0
+F65 PT100 board 2;65;65;0
+F66 Klixon;66;66;0
+F67 Fieldbus communication on slot E;67;67;0
+F68 D7 Voltage or frequency fault;68;68;0
+F69 OPT-D7 missing;69;69;0
+F70 Line voltage;70;70;0
+F71 LCL temperature;71;71;0
+F72 License;72;72;0
+F73 Supply frequency;73;73;0
+F80 Charging fault;80;80;0
+F81 External fault 2;81;81;0
+F82 Overload;82;82;0
+F88 Ambient temperature;88;88;0
+F89 Grid side fault;89;89;0
+F91 Chort circuit;91;91;0
+F92 D7 voltage;92;92;0
+F93 D7 frrequency;93;93;0
